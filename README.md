@@ -37,7 +37,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 <div>
+    
     <a href="https://plotly.com/~elizabethts/9/" target="_blank" title="gdp_per_cap" style="display: block; text-align: center;"><img src="https://plotly.com/~elizabethts/9.png" alt="gdp_per_cap" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="elizabethts:9" src="https://plotly.com/embed.js" async></script>
+    
 </div>
 
