@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
 title: Samuel Lee
-logo: /sl.png
-description: A short description of your site's purpose
+logo: /images/sl.png
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  this is all me
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
