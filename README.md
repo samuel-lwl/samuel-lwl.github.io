@@ -3,7 +3,7 @@ All me
 
 ## Project 1
 
-[Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/analysis.ipynb)
+<!-- [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/analysis.ipynb) -->
 
 [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
 <div>
