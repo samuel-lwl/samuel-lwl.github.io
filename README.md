@@ -1,5 +1,7 @@
-## About Me
-All me
+## My Projects
+- [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
+- [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
+- [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
 ## Project 1
 
