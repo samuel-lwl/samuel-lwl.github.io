@@ -1,15 +1,15 @@
 
 
 ## My Portfolio
-- [Investigating HDB resale prices](#Investigating-HDB-resale-prices)
+- [Investigating HDB resale prices](#investigating-hdb-resale-prices)
 - [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
 - [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 - [default md from github](#default-md-from-github)
-- [Support or Contact](#Support-or-Contact)
+- [Support or Contact](#support-or-contact)
 
 ---
 
-## Investigating HDB resale prices
+## investigating hdb resale prices
 
 <!-- <a id="Investigating HDB resale prices">Investigating HDB resale prices</a> -->
 
@@ -66,7 +66,7 @@ Syntax highlighted code block
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuel-lwl/samuel-lwl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
-### Support or Contact
+### support or contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
