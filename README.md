@@ -8,8 +8,9 @@
 - [Support or Contact](#support-or-contact)
 
 ---
+<a id="investigating-hdb-resale-prices"> </a>
 
-## investigating hdb resale prices
+## Investigating HDB resale prices
 
 <!-- <h2 id="investigating hdb resale prices">Investigating HDB resale prices</h2> -->
 
