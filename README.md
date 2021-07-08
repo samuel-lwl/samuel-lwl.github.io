@@ -1,14 +1,14 @@
 
 
 ## My Portfolio
-- [Investigating HDB resale prices](#investigating-hdb-resale-prices)
+- [Exploring HDB resale prices](#exploring-hdb-resale-prices)
 - [default md from github](#default-md-from-github)
 - [Support or Contact](#support-or-contact)
 
 ---
-<a id="investigating-hdb-resale-prices"> </a>
+<a id="exploring-hdb-resale-prices"> </a>
 
-## Investigating HDB resale prices
+## Exploring HDB resale prices
 
 [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
