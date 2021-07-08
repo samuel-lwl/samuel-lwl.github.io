@@ -2,8 +2,6 @@
 
 ## My Portfolio
 - [Investigating HDB resale prices](#investigating-hdb-resale-prices)
-- [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
-- [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 - [default md from github](#default-md-from-github)
 - [Support or Contact](#support-or-contact)
 
@@ -11,8 +9,6 @@
 <a id="investigating-hdb-resale-prices"> </a>
 
 ## Investigating HDB resale prices
-
-<!-- <h2 id="investigating hdb resale prices">Investigating HDB resale prices</h2> -->
 
 [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
@@ -41,34 +37,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut placerat orci nulla pellentesque. Nibh venenatis cras sed felis eget velit aliquet sagittis. Fermentum leo vel orci porta non pulvinar neque laoreet. Commodo elit at imperdiet dui accumsan. Natoque penatibus et magnis dis parturient. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Porta lorem mollis aliquam ut porttitor leo. Est lorem ipsum dolor sit. Mauris sit amet massa vitae tortor condimentum lacinia quis. Id eu nisl nunc mi ipsum. Nec ultrices dui sapien eget mi proin sed. Felis eget nunc lobortis mattis aliquam faucibus purus. Metus dictum at tempor commodo ullamcorper a lacus vestibulum. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Ipsum a arcu cursus vitae congue mauris rhoncus. Posuere morbi leo urna molestie at elementum eu facilisis sed.
 
 Pellentesque habitant morbi tristique senectus. Enim praesent elementum facilisis leo. Eu mi bibendum neque egestas. Proin fermentum leo vel orci porta. Curabitur vitae nunc sed velit dignissim sodales ut. In iaculis nunc sed augue lacus. Nulla facilisi etiam dignissim diam quis enim. Auctor elit sed vulputate mi sit. In hac habitasse platea dictumst vestibulum rhoncus est. Risus pretium quam vulputate dignissim suspendisse in. In cursus turpis massa tincidunt dui ut ornare lectus. Iaculis eu non diam phasellus. Ultrices neque ornare aenean euismod elementum nisi quis. Quam pellentesque nec nam aliquam sem et tortor consequat. Sit amet risus nullam eget felis eget nunc lobortis mattis. Pellentesque dignissim enim sit amet venenatis urna cursus. Duis convallis convallis tellus id interdum velit laoreet. Nec feugiat in fermentum posuere urna nec.
-
-<!-- ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``` -->
-
-<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuel-lwl/samuel-lwl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ---
 
