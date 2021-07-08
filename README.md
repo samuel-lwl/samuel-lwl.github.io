@@ -1,9 +1,9 @@
-## My Projects
-- [Investigating HDB resale prices](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
+# My Projects
+- [Investigating HDB resale prices](#Investigating-HDB-resale-prices)
 - [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
 - [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
-## Project 1
+## Investigating HDB resale prices
 
 [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
