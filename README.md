@@ -4,10 +4,10 @@
 - [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 - [Support or Contact](#Support-or-Contactzzz)
 - <a href="#Support-or-Contactzzz">Support or Contact</a> _(er er)_
-
+- <a href="#Investigating-HDB-resale-prices">Investigating HDB resale prices</a> _(er er)_
 ---
 
-## Investigating HDB resale prices
+<!-- ## Investigating HDB resale prices -->
 
 <a id="Investigating HDB resale prices">Investigating HDB resale prices</a>
 
