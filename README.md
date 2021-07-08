@@ -19,7 +19,7 @@ In this Kaggle competition organised by Jane Street, I developed a trading model
 
 ---
 
-<a id="Project 3">
+<a id="Project 3"> &nbsp; 
 [Project 3](www.kaggle.com)<br></a>
 The training set used for this project comprises 42,000 images from the MNIST dataset - the de facto "hello world" dataset of computer vision. The goal of this Kaggle competition is to build a deep learning model to recognize handwritten digits (0-9). To achieve this objective, I built a convolutional neural network (CNN) using Keras.
  
