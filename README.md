@@ -4,7 +4,8 @@
 - [Investigating HDB resale prices](#Investigating-HDB-resale-prices)
 - [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
 - [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
-
+- [default .md from github](#default-.md-from-github)
+- [Support or Contact](#Support-or-Contact)
 ---
 
 ## Investigating HDB resale prices
