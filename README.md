@@ -10,9 +10,9 @@
 
 ## Exploring HDB resale prices
 ![HDB](/images/HDB.jpg)
-<p align="center">
-    **[Notebook available here](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)**
-</p>
+<!-- <p align="center"> -->
+**[Notebook available here](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)**
+<!-- </p> -->
 
 In this project, I explored and visualised public housing resale prices from 2017 to 2021 to learn about recent market trends - specifically, the impact of COVID on the market. I also analysed possible significant factors affecting resale prices. Supervised learning models were then trained on past data to predict resale prices on newer unseen transactions. Lastly, unsupervised learning models were used to identify interesting patterns in the data by clustering transactions to form house segments.
 
