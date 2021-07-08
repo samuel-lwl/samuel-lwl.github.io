@@ -2,12 +2,14 @@
 - [Investigating HDB resale prices](#Investigating-HDB-resale-prices)
 - [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
 - [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
-- [Support or Contact](#Support-or-Contact)
-- <a href="#Support-or-Contact">Support or Contact</a> _(er er)_
+- [Support or Contact](#Support-or-Contactzzz)
+- <a href="#Support-or-Contactzzz">Support or Contact</a> _(er er)_
 
 ---
 
 ## Investigating HDB resale prices
+
+<a id="Investigating HDB resale prices">Investigating HDB resale prices</a>
 
 [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
@@ -58,5 +60,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<a id="Support or Contact">ooh</a>
+<a id="Support or Contactzzz">ooh</a>
 
