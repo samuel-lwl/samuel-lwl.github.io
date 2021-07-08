@@ -9,9 +9,9 @@
 
 ---
 
-<!-- ## investigating hdb resale prices -->
+## investigating hdb resale prices
 
-<h2 id="#investigating-hdb-resale-prices">Investigating HDB resale prices</h2>
+<!-- <h2 id="investigating hdb resale prices">Investigating HDB resale prices</h2> -->
 
 [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
