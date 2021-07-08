@@ -12,7 +12,8 @@
 ![HDB](/images/HDB.jpg)
 
 <p align="center">
-[Notebook available here](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
+    <a href="https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb">Notebook available here</a>
+<!-- [](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb) -->
 </p>
 
 In this project, I explored and visualised public housing resale prices from 2017 to 2021 to learn about recent market trends - specifically, the impact of COVID on the market. I also analysed possible significant factors affecting resale prices. 
