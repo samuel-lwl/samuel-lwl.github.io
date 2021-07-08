@@ -1,8 +1,11 @@
-# My Projects
+## My Portfolio
 - [Investigating HDB resale prices](#Investigating-HDB-resale-prices)
 - [source code is here](https://github.com/samuel-lwl/samuel-lwl.github.io)
 - [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 - [Support or Contact](#Support-or-Contact)
+- <a href="#Support-or-Contact">Support or Contact</a> _(er er)_
+
+---
 
 ## Investigating HDB resale prices
 
