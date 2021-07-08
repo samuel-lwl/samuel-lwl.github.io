@@ -26,6 +26,8 @@ Faucibus a pellentesque sit amet. Senectus et netus et malesuada fames ac turpis
 
 Id cursus metus aliquam eleifend mi in. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Pretium viverra suspendisse potenti nullam ac tortor vitae purus. Imperdiet sed euismod nisi porta. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. Adipiscing at in tellus integer. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin. Neque egestas congue quisque egestas diam in arcu. Bibendum est ultricies integer quis auctor elit. Vivamus arcu felis bibendum ut tristique et egestas. Ornare massa eget egestas purus viverra accumsan in. Tincidunt vitae semper quis lectus nulla. In tellus integer feugiat scelerisque. Ac ut consequat semper viverra nam libero justo laoreet sit. Fames ac turpis egestas sed tempus urna et pharetra pharetra. Diam vulputate ut pharetra sit amet aliquam id diam. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. At in tellus integer feugiat scelerisque varius.
 
+---
+
 <a id="default-md-from-github"> </a>
 
 ### Default .md from GitHub
@@ -67,6 +69,8 @@ Syntax highlighted code block
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuel-lwl/samuel-lwl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
+
+---
 
 <a id="support-or-contact"> </a>
 
