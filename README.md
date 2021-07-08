@@ -9,7 +9,7 @@
 <a id="exploring-hdb-resale-prices"> </a>
 
 ## Exploring HDB resale prices
-
+![HDB](/images/HDB.jpg)
 [Check out the interactive version with plotly](https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/analysis.ipynb)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet proin fermentum leo vel orci. Pharetra diam sit amet nisl suscipit. Arcu cursus euismod quis viverra. Fermentum et sollicitudin ac orci phasellus egestas. Eu facilisis sed odio morbi. Gravida arcu ac tortor dignissim convallis. Etiam tempor orci eu lobortis elementum. Urna neque viverra justo nec ultrices. Egestas dui id ornare arcu odio ut. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Ullamcorper velit sed ullamcorper morbi. Commodo odio aenean sed adipiscing diam donec adipiscing. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet.
