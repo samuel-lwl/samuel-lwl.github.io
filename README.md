@@ -23,18 +23,18 @@ Supervised learning models were then trained on past data to predict resale pric
 
 <a id="outlier-detection-in-product-matching"> </a>
 
-### Outlier Detection in Product Matching
-![food](/images/retail.png)
+## Outlier Detection in Product Matching
+![retail](/images/retail.png)
 
 <p align="center">
     <a href="https://www.kaggle.com/samuellwl/outlier-detection-in-product-matching">Notebook available here</a>
 </p>
 
-This short project consists of 
+In this short project, I attempt to detect outliers in product names using a combination of word processing techniques and unsupervised learning models.
 
-You can use the [editor on GitHub](https://github.com/samuel-lwl/samuel-lwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/samuel-lwl/samuel-lwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ---
 
