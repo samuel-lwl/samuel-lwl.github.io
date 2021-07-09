@@ -2,7 +2,7 @@
 
 ## My Portfolio
 - [Exploring HDB resale prices](#exploring-hdb-resale-prices)
-- [Outlier Detection with e-commerce data](#outlier-detection-with-e-commerce-data)
+- [Outlier Detection in Product Matching](#outlier-detection-in-product-matching)
 - [Predicting telco customer churn](#predicting-telco-customer-churn)
 
 ---
@@ -21,13 +21,16 @@ Supervised learning models were then trained on past data to predict resale pric
 
 ---
 
-<a id="outlier-detection-with-e-commerce-data"> </a>
+<a id="outlier-detection-in-product-matching"> </a>
 
-### Outlier Detection with e-commerce data
+### Outlier Detection in Product Matching
+![food](/images/retail.png)
 
 <p align="center">
-    <a href="https://www.kaggle.com/samuellwl/outlier-detection-with-e-commerce-data">Notebook available here</a>
+    <a href="https://www.kaggle.com/samuellwl/outlier-detection-in-product-matching">Notebook available here</a>
 </p>
+
+This short project consists of 
 
 You can use the [editor on GitHub](https://github.com/samuel-lwl/samuel-lwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
