@@ -17,7 +17,7 @@
 
 In this project, I explored and visualised public housing resale prices from 2017 to 2021 to learn about recent market trends - specifically, the impact of COVID on the market. I also analysed possible factors affecting resale prices. 
 
-Supervised learning models were then trained on past data to predict resale prices on newer unseen transactions. Lastly, unsupervised learning models were used to identify interesting patterns in the data by clustering transactions to form house segments.
+Supervised learning models were then trained on past data and tested on newer unseen transactions, achieving results less than 10% away from the true values on average. Lastly, unsupervised learning models were used to identify interesting patterns in the data by clustering transactions to form house segments.
 
 ---
 
@@ -30,11 +30,7 @@ Supervised learning models were then trained on past data to predict resale pric
     <a href="https://www.kaggle.com/samuellwl/outlier-detection-in-product-matching">Notebook available here</a>
 </p>
 
-In this short project, I attempt to detect outliers in product names using a combination of word processing techniques and unsupervised learning models.
-
-<!-- You can use the [editor on GitHub](https://github.com/samuel-lwl/samuel-lwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
+In this short project, I attempted to detect outliers in product names using a combination of word processing techniques and a couple of unsupervised learning models with varying success.
 
 ---
 
