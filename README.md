@@ -33,9 +33,6 @@ You can use the [editor on GitHub](https://github.com/samuel-lwl/samuel-lwl.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Cras pulvinar mattis nunc sed blandit. Neque ornare aenean euismod elementum nisi. Pharetra vel turpis nunc eget lorem dolor. Arcu vitae elementum curabitur vitae nunc sed. Ullamcorper a lacus vestibulum sed. Mattis enim ut tellus elementum sagittis vitae. Non enim praesent elementum facilisis leo. Faucibus nisl tincidunt eget nullam non nisi. Pretium nibh ipsum consequat nisl vel pretium. Nibh ipsum consequat nisl vel pretium lectus quam id. Turpis massa tincidunt dui ut ornare lectus. Vel eros donec ac odio tempor orci dapibus ultrices in.
-
 ---
 
 <a id="predicting-telco-customer-churn"> </a>
@@ -48,5 +45,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Cras pulvinar mattis nunc sed blandit. Neque ornare aenean euismod elementum nisi. Pharetra vel turpis nunc eget lorem dolor. Arcu vitae elementum curabitur vitae nunc sed. Ullamcorper a lacus vestibulum sed. Mattis enim ut tellus elementum sagittis vitae. Non enim praesent elementum facilisis leo. Faucibus nisl tincidunt eget nullam non nisi. Pretium nibh ipsum consequat nisl vel pretium. Nibh ipsum consequat nisl vel pretium lectus quam id. Turpis massa tincidunt dui ut ornare lectus. Vel eros donec ac odio tempor orci dapibus ultrices in.
 
