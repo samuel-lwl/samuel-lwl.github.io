@@ -37,11 +37,13 @@ In this short project, I attempted to detect outliers in product names using a c
 <a id="predicting-telco-customer-churn"> </a>
 
 ### Predicting telco customer churn
+![churn](/images/churn.png)
 
 <p align="center">
     <a href="https://www.kaggle.com/samuellwl/predicting-telco-customer-churn">Notebook available here</a>
 </p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project involves predicting whether or not a customer is likely to leave a company. Several supervised learning models were trained and compared on their results, with the best model obtaining 80% accuracy.
+
 
 
