@@ -3,7 +3,7 @@
 ## My Portfolio
 - [Exploring HDB resale prices](#exploring-hdb-resale-prices)
 - [Outlier Detection in Product Matching](#outlier-detection-in-product-matching)
-- [Predicting telco customer churn](#predicting-telco-customer-churn)
+- [Predicting customer churn](#predicting-customer-churn)
 
 ---
 <a id="exploring-hdb-resale-prices"> </a>
@@ -34,9 +34,9 @@ In this short project, I attempted to detect outliers in product names using a c
 
 ---
 
-<a id="predicting-telco-customer-churn"> </a>
+<a id="predicting-customer-churn"> </a>
 
-## Predicting telco customer churn
+## Predicting customer churn
 ![churn](/images/churn.png)
 
 <p align="center">
