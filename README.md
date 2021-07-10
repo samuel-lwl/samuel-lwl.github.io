@@ -36,7 +36,7 @@ In this short project, I attempted to detect outliers in product names using a c
 
 <a id="predicting-telco-customer-churn"> </a>
 
-### Predicting telco customer churn
+## Predicting telco customer churn
 ![churn](/images/churn.png)
 
 <p align="center">
