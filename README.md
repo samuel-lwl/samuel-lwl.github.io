@@ -15,9 +15,9 @@
     <a href="https://nbviewer.jupyter.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/hdb-analysis.ipynb">Notebook available here</a>
 </p>
 
-In this project, I explored and visualised public housing resale prices from 2017 to 2021 to learn about recent market trends - specifically, the impact of COVID on the market. I also analysed possible factors affecting resale prices. 
+In this project, I explored and visualised public housing resale prices using Plotly from 2017 to 2021 to learn about recent market trends - specifically, the impact of COVID on the market. I also analysed possible factors affecting resale prices. 
 
-Supervised learning models were then trained on past data and tested on newer unseen transactions, achieving results less than 10% away from the true values on average. Lastly, unsupervised learning models were used to identify interesting patterns in the data by clustering transactions to form house segments.
+Supervised learning models were then trained on past data using Scikit-learn and PyTorch and tested on newer unseen transactions, achieving results less than 10% away from the true values on average. Lastly, unsupervised learning models were used to identify interesting patterns in the data by clustering transactions to form house segments.
 
 ---
 
