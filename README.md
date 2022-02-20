@@ -1,7 +1,7 @@
 
 
 ## My Portfolio
-- [Sentiment Analysis of tweets with Deep Learning](#Sentiment-Analysis-of-tweets-with-Deep-Learning)
+- [Sentiment Analysis of tweets with Deep Learning](#Sentiment-Analysis-of-tweets-with-Deep-Learning-🤖)
 - [Exploring HDB resale prices](#exploring-hdb-resale-prices)
 - [Outlier Detection in Product Matching](#outlier-detection-in-product-matching)
 - [Predicting customer churn](#predicting-customer-churn)
@@ -9,15 +9,16 @@
 ---
 <a id="Sentiment-Analysis-of-tweets-with-Deep-Learning"> </a>
 
-## Sentiment Analysis of tweets with Deep Learning
+## Sentiment Analysis of tweets with Deep Learning 🤖
 ![sent-analy](/images/sentiment-analysis.png)
 
 <p align="center">
     <a href="https://nbviewer.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/Sentiment-Analysis-Deep-Learning.ipynb">Notebook available here</a>
 </p>
 
-In this project, test test 123
-123 test
+In this project, I explored the Huggingface framework and fine-tuned a pre-trained distilBERT model to outperform the default Huggingface sentiment classification model on the task of sentiment analysis of tweets. The dataset used was the <a href="https://huggingface.co/datasets/sentiment140">Sentiment140</a> dataset. I also trained a bi-LSTM model in TensorFlow for comparison.
+
+Lastly, I scraped twitter for recent tweets related to Elon Musk and used the fine-tuned transformer to predict their sentiments.
 
 ---
 
