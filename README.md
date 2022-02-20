@@ -1,11 +1,26 @@
 
 
 ## My Portfolio
+- [Sentiment Analysis of tweets with Deep Learning](#Sentiment-Analysis-of-tweets-with-Deep-Learning)
 - [Exploring HDB resale prices](#exploring-hdb-resale-prices)
 - [Outlier Detection in Product Matching](#outlier-detection-in-product-matching)
 - [Predicting customer churn](#predicting-customer-churn)
 
 ---
+<a id="Sentiment-Analysis-of-tweets-with-Deep-Learning"> </a>
+
+## Sentiment Analysis of tweets with Deep Learning
+![sent-analy](/images/sentiment-analysis.png)
+
+<p align="center">
+    <a href="https://nbviewer.org/github/samuel-lwl/samuel-lwl.github.io/blob/master/projects/Sentiment-Analysis-Deep-Learning.ipynb">Notebook available here</a>
+</p>
+
+In this project, test test 123
+123 test
+
+---
+
 <a id="exploring-hdb-resale-prices"> </a>
 
 ## Exploring HDB resale prices
