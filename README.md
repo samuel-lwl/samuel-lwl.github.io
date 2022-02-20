@@ -1,7 +1,7 @@
 
 
 ## My Portfolio
-- [Sentiment Analysis of tweets with Deep Learning](#Sentiment-Analysis-of-tweets-with-Deep-Learning-🤖)
+- [Sentiment Analysis of tweets with Deep Learning](#Sentiment-Analysis-of-tweets-with-Deep-Learning)
 - [Exploring HDB resale prices](#exploring-hdb-resale-prices)
 - [Outlier Detection in Product Matching](#outlier-detection-in-product-matching)
 - [Predicting customer churn](#predicting-customer-churn)
