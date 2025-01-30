@@ -1,12 +1,26 @@
 
 
 ## Samuel's Portfolio
+- [Batch ETL pipeline for new releases on Spotify](#Batch-ETL-pipeline-for-new-releases-on-Spotify)
 - [Sentiment Analysis of tweets with Deep Learning](#Sentiment-Analysis-of-tweets-with-Deep-Learning)
-- [Exploring HDB resale prices](#exploring-hdb-resale-prices)
+- [Analysing and Modelling HDB resale prices](#exploring-hdb-resale-prices)
 - [Outlier Detection in Product Matching](#outlier-detection-in-product-matching)
 - [Predicting customer churn](#predicting-customer-churn)
 
 ---
+
+<a id="Batch-ETL-pipeline-for-new-releases-on-Spotify"> </a>
+
+## Batch ETL Pipeline for new releases on Spotify
+<!-- ![spotify-etl](/images/spotify_etl.jpg) -->
+![spotify-etl](/images/pipeline_diagram.png)
+
+This project involves extracting new Spotify releases via Spotify's <a href="https://developer.spotify.com/">Web API</a>, transforming, and then loading them into a PostgreSQL database. The entire pipeline was orchestrated by Airflow on Docker to run on a daily schedule.
+
+Check out the repo here: https://github.com/samuel-lwl/spotify_etl_public
+
+---
+
 <a id="Sentiment-Analysis-of-tweets-with-Deep-Learning"> </a>
 
 ## Sentiment Analysis of tweets with Deep Learning 🤖
@@ -24,7 +38,7 @@ Lastly, I scraped twitter for recent tweets related to Elon Musk and used the fi
 
 <a id="exploring-hdb-resale-prices"> </a>
 
-## Exploring HDB resale prices
+## Analysing and Modelling HDB resale prices
 ![HDB](/images/HDB.jpg)
 
 <p align="center">
