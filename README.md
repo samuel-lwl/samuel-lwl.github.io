@@ -17,7 +17,7 @@
 
 This project involves extracting new Spotify releases via Spotify's <a href="https://developer.spotify.com/">Web API</a>, transforming, and then loading them into a PostgreSQL database. The entire pipeline was orchestrated by Airflow on Docker to run on a daily schedule.
 
-Check out the repo here: https://github.com/samuel-lwl/spotify_etl_public
+Check out the repo here: <a href="https://github.com/samuel-lwl/spotify_etl_public">https://github.com/samuel-lwl/spotify_etl_public</a>.
 
 ---
 
